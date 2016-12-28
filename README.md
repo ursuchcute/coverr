@@ -1,4 +1,3 @@
-# Cover
 
 A chic Hexo theme with facebook-like cover photo. Forked from [Writing](https://github.com/yunlzheng/hexo-themes-writing).
 
